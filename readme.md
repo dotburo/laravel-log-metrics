@@ -1,11 +1,6 @@
 # Laravel log metrics
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/dotburo/laravel-log-metrics.svg?style=flat-square)](https://packagist.org/packages/dotburo/laravel-log-metrics)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/dotburo/laravel-log-metrics/run-tests?label=tests)](https://github.com/dotburo/laravel-log-metrics/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/workflow/status/dotburo/laravel-log-metrics/Check%20&%20fix%20styling?label=code%20style)](https://github.com/dotburo/laravel-log-metrics/actions?query=workflow%3A"Check+%26+fix+styling"+branch%3Amain)
-[![Total Downloads](https://img.shields.io/packagist/dt/dotburo/laravel-log-metrics.svg?style=flat-square)](https://packagist.org/packages/dotburo/laravel-log-metrics)
-
-**In development!** Simple Laravel tool to log messages and metrics to a database.
+*This project has been refactored and moved to [dotburo/laravel-molog](https://github.com/dotburo/laravel-molog)*
 
 ## Installation
 
