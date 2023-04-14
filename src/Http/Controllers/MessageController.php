@@ -2,7 +2,6 @@
 
 namespace Dotburo\LogMetrics\Http\Controllers;
 
-use Dotburo\LogMetrics\LogMetricsConstants;
 use Dotburo\LogMetrics\Models\Message;
 use Illuminate\Contracts\Support\Jsonable;
 use Illuminate\Http\Request;

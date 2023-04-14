@@ -53,7 +53,7 @@ class Message extends Event
             array_keys(LogMetricsConstants::LEVEL_CODES)
         );
 
-        $codes = array_map(function($level) {
+        $codes = array_map(function ($level) {
             return LogMetricsConstants::LEVEL_CODES[$level] ?? LogMetricsConstants::LEVEL_CODES[LogMetricsConstants::DEBUG];
         }, $levels);
 
